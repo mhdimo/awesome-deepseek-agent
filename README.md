@@ -6,7 +6,7 @@
 
 A curated list of guides for integrating **DeepSeek** models into popular AI agent and coding-assistant tools.
 
-Each guide walks through installation, configuration, and first run — so you can start using DeepSeek-V4-Pro or DeepSeek-V4-Flash inside your favorite tool in a few minutes.
+Each guide walks through installation, configuration, and first run — so you can start using DeepSeek-V4-Pro or DeepSeek-V4.1-Flash inside your favorite tool in a few minutes.
 
 </div>
 
