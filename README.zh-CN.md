@@ -6,7 +6,7 @@
 
 精选的 **DeepSeek** 模型接入指南合集，帮助你将 DeepSeek 接入主流 AI Agent 与编程助手工具。
 
-每份指南都包含安装、配置与首次运行的完整步骤，几分钟即可在你喜爱的工具中用上 DeepSeek-V4-Pro 或 DeepSeek-V4-Flash。
+每份指南都包含安装、配置与首次运行的完整步骤，几分钟即可在你喜爱的工具中用上 DeepSeek-V4-Pro 或 DeepSeek-V4.1-Flash。
 
 </div>
 
